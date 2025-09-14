@@ -8,8 +8,11 @@ export default function Home() {
     <>
       <HeroSection />
       <Component2 />
-
       <ContactSection />
+
+
+
+      
     </>
   );
 }
