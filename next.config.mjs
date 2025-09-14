@@ -1,7 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-    output: 'export',      // enables static export
-    trailingSlash: true,   // optional but recommended for Netlify
-};
+const nextConfig = {};
 
 export default nextConfig;

@@ -10,8 +10,6 @@ export default function Home() {
       <Component2 />
 
       <ContactSection />
-
-
     </>
   );
 }
