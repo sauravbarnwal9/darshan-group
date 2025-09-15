@@ -27,9 +27,9 @@ const HeroSection = () => {
 
                 {/* Center Title */}
                 <div className="flex  space-y-4 md:space-y-6 md:text-left justify-end">
-                    <a href="#about" className="px-6 py-4   mt-[30%] " >
+                    {/* <a href="#about" className="px-6 py-4   mt-[30%] " >
                         <button className="px-6 py-4 border-2 border-teal-600 bg-teal-600 cursor-pointer w-[200px] rounded-md font-bold hover:bg-transparent transition">  ABOUT US</button>
-                    </a>
+                    </a> */}
                 </div>
 
                 {/* Bottom Buttons */}
