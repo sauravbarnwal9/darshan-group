@@ -40,7 +40,16 @@ const Component2 = () => {
 
 
             </div>
-            <div className="relative w-full h-screen " id='about'>
+            <div className="relative w-full h-screen ">
+                <Image
+                    src="/Csqopy of Dark Blue Photographic Conference Event Website (3).svg"
+                    alt="Logo"
+                    fill
+                    priority
+                    className="object-cover p-8 px-30"
+                />
+            </div>
+            <div className="relative w-full h-screen my-8  " id='about'>
                 <Image
                     src="/Copy of Dark Blue Photographic Conference Event Website (2).svg"
                     alt="Logo"
@@ -52,18 +61,20 @@ const Component2 = () => {
 
 
             </div>
-            <div className="relative w-full h-screen my-8 ">
+
+            <div className="relative w-full h-[110vh] " id='about'>
                 <Image
                     src="/Copy of Dark Blue Photographic Conference Event Website (3).svg"
                     alt="Logo"
                     fill
                     priority
-                    className="object-cover p-8 px-30"
+                    className="object-cover p-12 px-30"
                 />
 
 
 
             </div>
+
 
             <div className="relative w-full h-[110vh] " id='chairman'>
                 <Image
